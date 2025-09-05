@@ -8,21 +8,18 @@
 
 ## 2.1 Cmdlet Anatomy
 
-### *developmental notes*
-
 - Verb-Noun format
 - Case-insensitive but stylistically PascalCase
 
-## 2.2 Parameters & Aliases
-
-### *developmental notes*
+## 2.2 Parameters
 
 - Named vs positional parameters
+
+## 2.3 Aliases
+ 
 - Common aliases (`ls`, `dir`, `gc`)
 
-## 2.3 Using Help
-
-### *developmental notes*
+## 2.4 Using Help
 
 - `Get-Help`, `-Examples`, `-Detailed`
 - Updating help files

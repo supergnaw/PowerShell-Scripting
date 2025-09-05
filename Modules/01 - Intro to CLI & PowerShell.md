@@ -8,28 +8,20 @@
 
 ## 1.1 What is CLI
 
-### *developmental notes*
-
 - Analogy: CLI as a "text-based remote control"
 - Compare GUI vs CLI
 
 ## 1.2 What is PowerShell
-
-### *developmental notes*
 
 - History and purpose (task automation, object-oriented)
 - How it differs from Command Prompt
 
 ## 1.3 Launching PowerShell
 
-### *developmental notes*
-
 - Admin vs non-admin
 - Console vs ISE vs VS Code
 
 ## 1.4 Basic Navigation
-
-### *developmental notes*
 
 - `Get-Location`, `Set-Location`, `Clear-Host`
 - Tab completion and command history
